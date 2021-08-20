@@ -1,16 +1,21 @@
 # Search algorithms
 ![Untitled](https://user-images.githubusercontent.com/89021784/129673085-e14c24a8-0f45-4196-89d5-4830adf3423c.png)
 
-### BFS Algorithm:
+### <a href="https://github.com/sanya25aug/Search-algorithms/blob/main/BFS.cpp">BFS Algorithm: </a>
 
-* BFS is traversing the adjacent nodes at first, and after that moving on to next nodes.
-* Complexity:
-    * Time complexity: O(N+E) -> N is time taken for visiting N nodes, and E is for travelling through adjacent nodes overall.
-    * Space complexity: O(N+E) + O(N) + O(N) 
+   * BFS is traversing the adjacent nodes at first, and after that moving on to next nodes.
+   * Complexity:
+      * Time complexity: O(N+E) -> N is time taken for visiting N nodes, and E is for travelling through adjacent nodes overall.
+      * Space complexity: O(N+E) + O(N) + O(N) 
 
 <hr/>
 
-### DFS Algorithm:
+### <a href="https://github.com/sanya25aug/Search-algorithms/blob/main/DFS.cpp">DFS Algorithm: </a>
+
+   * DFS is traversing the graph in depthward motion. It is a recursive function.
+   * Complexity:
+      * Time complexity: O(N+E) -> N is time taken for visiting N nodes, and E is for travelling through adjacent nodes overall.
+      * Space complexity: O(N+E) + O(N) + O(N) -> Space for adjacency list, visited array, and auxiliary space.
 
 
 <hr/>
