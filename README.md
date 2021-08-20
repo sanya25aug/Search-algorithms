@@ -15,7 +15,7 @@
 
 <hr/>
 
-### Uniform cost search:
+### <a href="https://github.com/sanya25aug/Search-algorithms/blob/main/Uniform%20Cost%20Search.cpp">Uniform cost search: </a>
    ![aaaa](https://user-images.githubusercontent.com/89021784/130214504-6d144e9c-8209-4364-8877-97637ee575a8.png)
 
    1. We will have a priority queue (that will store distance, node).
